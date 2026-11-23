@@ -1,0 +1,7 @@
+D:\StudyTogether_PhamNhanTuTien_v5\StudyTogether\Client\obj\Debug\net8.0-windows\Client.LoginForm.resources
+D:\StudyTogether_PhamNhanTuTien_v5\StudyTogether\Client\obj\Debug\net8.0-windows\Client.DoubleBufferedPanel.resources
+D:\StudyTogether_PhamNhanTuTien_v5\StudyTogether\Client\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+D:\StudyTogether_PhamNhanTuTien_v5\StudyTogether\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudyTogether_PhamNhanTuTien_v5\StudyTogether\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+D:\StudyTogether_PhamNhanTuTien_v5\StudyTogether\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+D:\StudyTogether_PhamNhanTuTien_v5\StudyTogether\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
